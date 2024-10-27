@@ -1,0 +1,326 @@
+Change Group 1: Start = 0x5e8, End = 0x5ef
+Original: ff -> Modified: 00
+Original: c0 -> Modified: 48
+Original: f2 -> Modified: 48
+Original: fd -> Modified: 8f
+Original: 7f -> Modified: *
+Original: 73 -> Modified: *
+Original: 8c -> Modified: *
+Original: ec -> Modified: 97
+
+
+Change Group 2: Start = 0x2fb08, End = 0x2fb09
+Original: b2 -> Modified: 57
+Original: 75 -> Modified: 9d
+
+
+Change Group 3: Start = 0x152784, End = 0x15278b
+Original: 10 -> Modified: 9d
+Original: 8d -> Modified: e6
+Original: 06 -> Modified: ee
+Original: 8b -> Modified: 35
+Original: 2d -> Modified: *
+Original: ee -> Modified: *
+Original: 35 -> Modified: *
+Original: 08 -> Modified: 3d
+
+
+Change Group 4: Start = 0x17add8, End = 0x17addf
+Original: f0 -> Modified: 3d
+Original: 8c -> Modified: 85
+Original: ff -> Modified: 85
+Original: 8b -> Modified: cc
+Original: cc -> Modified: *
+Original: 85 -> Modified: *
+Original: cc -> Modified: *
+Original: 08 -> Modified: d4
+
+
+Change Group 5: Start = 0x2e1860, End = 0x2e1860
+Original: ff -> Modified: d8
+
+
+Change Group 10: Start = 0x2e1864, End = 0x2e1866
+Original: bf -> Modified: *
+Original: 68 -> Modified: *
+Original: d3 -> Modified: *
+
+
+Change Group 11: Start = 0x2e186a, End = 0x2e186b
+Original: c7 -> Modified: *
+Original: 68 -> Modified: *
+
+
+Change Group 12: Start = 0x2e186e, End = 0x2e1879
+Original: bf -> Modified: *
+Original: 68 -> Modified: *
+Original: 22 -> Modified: da
+Original: 28 -> Modified: 23
+Original: ff -> Modified: 2b
+Original: 42 -> Modified: 72
+Original: 4d -> Modified: c7
+Original: e5 -> Modified: 1c
+Original: 90 -> Modified: 1c
+Original: c7 -> Modified: 2a
+Original: 55 -> Modified: d4
+Original: d5 -> Modified: fe
+
+
+Change Group 8: Start = 0x2e187c, End = 0x2e187f
+Original: 54 -> Modified: *
+Original: d4 -> Modified: *
+Original: fe -> Modified: *
+Original: fa -> Modified: 06
+
+
+Change Group 9: Start = 0x2e188c, End = 0x2e188d
+Original: 6c -> Modified: 73
+Original: e7 -> Modified: 8f
+
+
+Change Group 15: Start = 0x2e1892, End = 0x2e1893
+Original: 7f -> Modified: *
+Original: 1f -> Modified: *
+
+
+Change Group 16: Start = 0x2e1898, End = 0x2e1899
+Original: 87 -> Modified: *
+Original: 1f -> Modified: *
+
+
+Change Group 17: Start = 0x2e189c, End = 0x2e189d
+Original: 7f -> Modified: *
+Original: 1f -> Modified: *
+
+
+Change Group 10: Start = 0x2e18b6, End = 0x2e18b7
+Original: 3f -> Modified: cf
+Original: e6 -> Modified: ed
+
+
+Change Group 11: Start = 0x2e18c2, End = 0x2e18c5
+Original: bb -> Modified: ad
+Original: 56 -> Modified: f3
+Original: 04 -> Modified: 06
+Original: 24 -> Modified: 26
+
+
+Change Group 12: Start = 0x2e18ce, End = 0x2e18d1
+Original: bb -> Modified: e6
+Original: 56 -> Modified: 2c
+Original: 59 -> Modified: 8e
+Original: 24 -> Modified: ae
+
+
+Change Group 21: Start = 0x2e18dc, End = 0x2e18dd
+Original: a6 -> Modified: *
+Original: 3e -> Modified: *
+
+
+Change Group 22: Start = 0x2e18e2, End = 0x2e18e3
+Original: 9e -> Modified: *
+Original: 3e -> Modified: *
+
+
+Change Group 23: Start = 0x2e18e6, End = 0x2e18e9
+Original: a6 -> Modified: *
+Original: 3e -> Modified: *
+Original: a6 -> Modified: *
+Original: 3e -> Modified: *
+
+
+Change Group 13: Start = 0x2e1906, End = 0x2e1907
+Original: 3f -> Modified: ee
+Original: e6 -> Modified: 0c
+
+
+Change Group 14: Start = 0x2e1928, End = 0x2e1929
+Original: 3f -> Modified: 4c
+Original: e6 -> Modified: 6a
+
+
+Change Group 15: Start = 0x2e19d2, End = 0x2e19d3
+Original: 90 -> Modified: fc
+Original: ea -> Modified: 18
+
+
+Change Group 16: Start = 0x2e1a34, End = 0x2e1a35
+Original: 7e -> Modified: 98
+Original: ec -> Modified: b4
+
+
+Change Group 17: Start = 0x2e1a3a, End = 0x2e1a3b
+Original: 7e -> Modified: 34
+Original: e6 -> Modified: 52
+
+
+Change Group 18: Start = 0x2e1a9c, End = 0x2e1a9f
+Original: 99 -> Modified: ed
+Original: e9 -> Modified: 09
+Original: 90 -> Modified: 9b
+Original: ea -> Modified: b7
+
+
+Change Group 19: Start = 0x2e1ac2, End = 0x2e1ac7
+Original: 63 -> Modified: 1b
+Original: e8 -> Modified: 37
+Original: 48 -> Modified: 80
+Original: eb -> Modified: 9c
+Original: 5a -> Modified: f7
+Original: e3 -> Modified: 15
+
+
+Change Group 20: Start = 0x2e1b38, End = 0x2e1b3b
+Original: 99 -> Modified: b0
+Original: e9 -> Modified: cc
+Original: 90 -> Modified: 5e
+Original: ea -> Modified: 7a
+
+
+Change Group 21: Start = 0x2e1b48, End = 0x2e1b49
+Original: 5a -> Modified: d5
+Original: e9 -> Modified: f1
+
+
+Change Group 22: Start = 0x2e1b84, End = 0x2e1b87
+Original: 6c -> Modified: 5e
+Original: e7 -> Modified: 7a
+Original: 5a -> Modified: d5
+Original: e9 -> Modified: f1
+
+
+Change Group 23: Start = 0x2e1b90, End = 0x2e1b91
+Original: 63 -> Modified: 55
+Original: e2 -> Modified: 73
+
+
+Change Group 24: Start = 0x2e1c00, End = 0x2e1c03
+Original: 99 -> Modified: 0e
+Original: e9 -> Modified: 2a
+Original: 90 -> Modified: bc
+Original: ea -> Modified: d8
+
+
+Change Group 25: Start = 0x2e1c10, End = 0x2e1c11
+Original: 5a -> Modified: 33
+Original: e9 -> Modified: 4f
+
+
+Change Group 26: Start = 0x2e1c98, End = 0x2e1c9b
+Original: 99 -> Modified: ea
+Original: e9 -> Modified: 06
+Original: 90 -> Modified: 98
+Original: ea -> Modified: b4
+
+
+Change Group 27: Start = 0x2e1ca8, End = 0x2e1ca9
+Original: 5a -> Modified: 0f
+Original: e9 -> Modified: 2b
+
+
+Change Group 28: Start = 0x2e1d88, End = 0x2e1d89
+Original: 0e -> Modified: 3d
+Original: eb -> Modified: 5a
+
+
+Change Group 40: Start = 0x2e1e2c, End = 0x2e1e2d
+Original: 52 -> Modified: *
+Original: ea -> Modified: *
+
+
+Change Group 29: Start = 0x2e1f61, End = 0x2e1f63
+Original: 11 -> Modified: *
+Original: b0 -> Modified: *
+Original: 35 -> Modified: *
+
+
+Change Group 30: Start = 0x2e1fb4, End = 0x2e1fb7
+Original: 05 -> Modified: *
+Original: 05 -> Modified: *
+Original: 5a -> Modified: *
+Original: 4c -> Modified: *
+
+
+Change Group 45: Start = 0x2e202e, End = 0x2e202f
+Original: 4a -> Modified: *
+Original: ea -> Modified: *
+
+
+Change Group 46: Start = 0x2e2034, End = 0x2e2035
+Original: 52 -> Modified: *
+Original: ea -> Modified: *
+
+
+Change Group 47: Start = 0x2e2038, End = 0x2e2039
+Original: 4a -> Modified: *
+Original: ea -> Modified: *
+
+
+Change Group 48: Start = 0x2e207a, End = 0x2e207b
+Original: 38 -> Modified: *
+Original: ea -> Modified: *
+
+
+Change Group 49: Start = 0x2e2080, End = 0x2e2081
+Original: 40 -> Modified: *
+Original: ea -> Modified: *
+
+
+Change Group 50: Start = 0x2e2084, End = 0x2e2085
+Original: 38 -> Modified: *
+Original: ea -> Modified: *
+
+
+Change Group 31: Start = 0x2e2126, End = 0x2e2127
+Original: 59 -> Modified: *
+Original: 22 -> Modified: *
+
+
+Change Group 32: Start = 0x2e212a, End = 0x2e212d
+Original: 59 -> Modified: *
+Original: 23 -> Modified: *
+Original: 59 -> Modified: *
+Original: 26 -> Modified: *
+
+
+Change Group 33: Start = 0xa40087, End = 0xa40087
+Original: 5a -> Modified: *
+
+
+Change Group 34: Start = 0xa400a7, End = 0xa400a7
+Original: 5a -> Modified: *
+
+
+Change Group 35: Start = 0xa401e9, End = 0xa401e9
+Original: 5a -> Modified: *
+
+
+Change Group 36: Start = 0xa401fb, End = 0xa401fb
+Original: 5a -> Modified: *
+
+
+Change Group 37: Start = 0xa4030b, End = 0xa4030b
+Original: 5a -> Modified: *
+
+
+Change Group 38: Start = 0xa4030d, End = 0xa4030d
+Original: 5a -> Modified: *
+
+
+Change Group 39: Start = 0xa40477, End = 0xa40477
+Original: 5a -> Modified: *
+
+
+Change Group 40: Start = 0xa40479, End = 0xa40479
+Original: 5a -> Modified: *
+
+
+Change Group 41: Start = 0xe8300e, End = 0xe8300f
+Original: 5b -> Modified: *
+Original: 5b -> Modified: *
+
+
+Change Group 42: Start = 0xec0002, End = 0xec0003
+Original: 5b -> Modified: *
+Original: ff -> Modified: 
+
