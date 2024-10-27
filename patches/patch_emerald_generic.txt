@@ -1,43 +1,43 @@
 Change Group 1: Start = 0x5e8, End = 0x5ef
-Original: ff -> Modified: 00
-Original: c0 -> Modified: 48
-Original: f2 -> Modified: 48
-Original: fd -> Modified: 8f
+Original: ff -> Modified: 0
+Original: c0 -> Modified: 0
+Original: f2 -> Modified: 0
+Original: fd -> Modified: 0
 Original: 7f -> Modified: *
 Original: 73 -> Modified: *
 Original: 8c -> Modified: *
-Original: ec -> Modified: 97
+Original: ec -> Modified: 0
 
 
 Change Group 2: Start = 0x2fb08, End = 0x2fb09
-Original: b2 -> Modified: 57
-Original: 75 -> Modified: 9d
+Original: b2 -> Modified: 0
+Original: 75 -> Modified: 0
 
 
 Change Group 3: Start = 0x152784, End = 0x15278b
-Original: 10 -> Modified: 9d
-Original: 8d -> Modified: e6
-Original: 06 -> Modified: ee
-Original: 8b -> Modified: 35
+Original: 10 -> Modified: 0
+Original: 8d -> Modified: 0
+Original: 06 -> Modified: 0
+Original: 8b -> Modified: 0
 Original: 2d -> Modified: *
 Original: ee -> Modified: *
 Original: 35 -> Modified: *
-Original: 08 -> Modified: 3d
+Original: 08 -> Modified: 0
 
 
 Change Group 4: Start = 0x17add8, End = 0x17addf
-Original: f0 -> Modified: 3d
-Original: 8c -> Modified: 85
-Original: ff -> Modified: 85
-Original: 8b -> Modified: cc
+Original: f0 -> Modified: 0
+Original: 8c -> Modified: 0
+Original: ff -> Modified: 0
+Original: 8b -> Modified: 0
 Original: cc -> Modified: *
 Original: 85 -> Modified: *
 Original: cc -> Modified: *
-Original: 08 -> Modified: d4
+Original: 08 -> Modified: 0
 
 
 Change Group 5: Start = 0x2e1860, End = 0x2e1860
-Original: ff -> Modified: d8
+Original: ff -> Modified: 0
 
 
 Change Group 10: Start = 0x2e1864, End = 0x2e1866
@@ -54,28 +54,28 @@ Original: 68 -> Modified: *
 Change Group 12: Start = 0x2e186e, End = 0x2e1879
 Original: bf -> Modified: *
 Original: 68 -> Modified: *
-Original: 22 -> Modified: da
-Original: 28 -> Modified: 23
-Original: ff -> Modified: 2b
-Original: 42 -> Modified: 72
-Original: 4d -> Modified: c7
-Original: e5 -> Modified: 1c
-Original: 90 -> Modified: 1c
-Original: c7 -> Modified: 2a
-Original: 55 -> Modified: d4
-Original: d5 -> Modified: fe
+Original: 22 -> Modified: 0
+Original: 28 -> Modified: 0
+Original: ff -> Modified: 0
+Original: 42 -> Modified: 0
+Original: 4d -> Modified: 0
+Original: e5 -> Modified: 0
+Original: 90 -> Modified: 0
+Original: c7 -> Modified: 0
+Original: 55 -> Modified: 0
+Original: d5 -> Modified: 0
 
 
 Change Group 8: Start = 0x2e187c, End = 0x2e187f
 Original: 54 -> Modified: *
 Original: d4 -> Modified: *
 Original: fe -> Modified: *
-Original: fa -> Modified: 06
+Original: fa -> Modified: 0
 
 
 Change Group 9: Start = 0x2e188c, End = 0x2e188d
-Original: 6c -> Modified: 73
-Original: e7 -> Modified: 8f
+Original: 6c -> Modified: 0
+Original: e7 -> Modified: 0
 
 
 Change Group 15: Start = 0x2e1892, End = 0x2e1893
@@ -94,22 +94,22 @@ Original: 1f -> Modified: *
 
 
 Change Group 10: Start = 0x2e18b6, End = 0x2e18b7
-Original: 3f -> Modified: cf
-Original: e6 -> Modified: ed
+Original: 3f -> Modified: 0
+Original: e6 -> Modified: 0
 
 
 Change Group 11: Start = 0x2e18c2, End = 0x2e18c5
-Original: bb -> Modified: ad
-Original: 56 -> Modified: f3
-Original: 04 -> Modified: 06
-Original: 24 -> Modified: 26
+Original: bb -> Modified: 0
+Original: 56 -> Modified: 0
+Original: 04 -> Modified: 0
+Original: 24 -> Modified: 0
 
 
 Change Group 12: Start = 0x2e18ce, End = 0x2e18d1
-Original: bb -> Modified: e6
-Original: 56 -> Modified: 2c
-Original: 59 -> Modified: 8e
-Original: 24 -> Modified: ae
+Original: bb -> Modified: 0
+Original: 56 -> Modified: 0
+Original: 59 -> Modified: 0
+Original: 24 -> Modified: 0
 
 
 Change Group 21: Start = 0x2e18dc, End = 0x2e18dd
@@ -130,97 +130,97 @@ Original: 3e -> Modified: *
 
 
 Change Group 13: Start = 0x2e1906, End = 0x2e1907
-Original: 3f -> Modified: ee
-Original: e6 -> Modified: 0c
+Original: 3f -> Modified: 0
+Original: e6 -> Modified: 0
 
 
 Change Group 14: Start = 0x2e1928, End = 0x2e1929
-Original: 3f -> Modified: 4c
-Original: e6 -> Modified: 6a
+Original: 3f -> Modified: 0
+Original: e6 -> Modified: 0
 
 
 Change Group 15: Start = 0x2e19d2, End = 0x2e19d3
-Original: 90 -> Modified: fc
-Original: ea -> Modified: 18
+Original: 90 -> Modified: 0
+Original: ea -> Modified: 0
 
 
 Change Group 16: Start = 0x2e1a34, End = 0x2e1a35
-Original: 7e -> Modified: 98
-Original: ec -> Modified: b4
+Original: 7e -> Modified: 0
+Original: ec -> Modified: 0
 
 
 Change Group 17: Start = 0x2e1a3a, End = 0x2e1a3b
-Original: 7e -> Modified: 34
-Original: e6 -> Modified: 52
+Original: 7e -> Modified: 0
+Original: e6 -> Modified: 0
 
 
 Change Group 18: Start = 0x2e1a9c, End = 0x2e1a9f
-Original: 99 -> Modified: ed
-Original: e9 -> Modified: 09
-Original: 90 -> Modified: 9b
-Original: ea -> Modified: b7
+Original: 99 -> Modified: 0
+Original: e9 -> Modified: 0
+Original: 90 -> Modified: 0
+Original: ea -> Modified: 0
 
 
 Change Group 19: Start = 0x2e1ac2, End = 0x2e1ac7
-Original: 63 -> Modified: 1b
-Original: e8 -> Modified: 37
-Original: 48 -> Modified: 80
-Original: eb -> Modified: 9c
-Original: 5a -> Modified: f7
-Original: e3 -> Modified: 15
+Original: 63 -> Modified: 0
+Original: e8 -> Modified: 0
+Original: 48 -> Modified: 0
+Original: eb -> Modified: 0
+Original: 5a -> Modified: 0
+Original: e3 -> Modified: 0
 
 
 Change Group 20: Start = 0x2e1b38, End = 0x2e1b3b
-Original: 99 -> Modified: b0
-Original: e9 -> Modified: cc
-Original: 90 -> Modified: 5e
-Original: ea -> Modified: 7a
+Original: 99 -> Modified: 0
+Original: e9 -> Modified: 0
+Original: 90 -> Modified: 0
+Original: ea -> Modified: 0
 
 
 Change Group 21: Start = 0x2e1b48, End = 0x2e1b49
-Original: 5a -> Modified: d5
-Original: e9 -> Modified: f1
+Original: 5a -> Modified: 0
+Original: e9 -> Modified: 0
 
 
 Change Group 22: Start = 0x2e1b84, End = 0x2e1b87
-Original: 6c -> Modified: 5e
-Original: e7 -> Modified: 7a
-Original: 5a -> Modified: d5
-Original: e9 -> Modified: f1
+Original: 6c -> Modified: 0
+Original: e7 -> Modified: 0
+Original: 5a -> Modified: 0
+Original: e9 -> Modified: 0
 
 
 Change Group 23: Start = 0x2e1b90, End = 0x2e1b91
-Original: 63 -> Modified: 55
-Original: e2 -> Modified: 73
+Original: 63 -> Modified: 0
+Original: e2 -> Modified: 0
 
 
 Change Group 24: Start = 0x2e1c00, End = 0x2e1c03
-Original: 99 -> Modified: 0e
-Original: e9 -> Modified: 2a
-Original: 90 -> Modified: bc
-Original: ea -> Modified: d8
+Original: 99 -> Modified: 0
+Original: e9 -> Modified: 0
+Original: 90 -> Modified: 0
+Original: ea -> Modified: 0
 
 
 Change Group 25: Start = 0x2e1c10, End = 0x2e1c11
-Original: 5a -> Modified: 33
-Original: e9 -> Modified: 4f
+Original: 5a -> Modified: 0
+Original: e9 -> Modified: 0
 
 
 Change Group 26: Start = 0x2e1c98, End = 0x2e1c9b
-Original: 99 -> Modified: ea
-Original: e9 -> Modified: 06
-Original: 90 -> Modified: 98
-Original: ea -> Modified: b4
+Original: 99 -> Modified: 0
+Original: e9 -> Modified: 0
+Original: 90 -> Modified: 0
+Original: ea -> Modified: 0
 
 
 Change Group 27: Start = 0x2e1ca8, End = 0x2e1ca9
-Original: 5a -> Modified: 0f
-Original: e9 -> Modified: 2b
+Original: 5a -> Modified: 0
+Original: e9 -> Modified: 0
 
 
 Change Group 28: Start = 0x2e1d88, End = 0x2e1d89
-Original: 0e -> Modified: 3d
-Original: eb -> Modified: 5a
+Original: 0e -> Modified: 0
+Original: eb -> Modified: 0
 
 
 Change Group 40: Start = 0x2e1e2c, End = 0x2e1e2d
@@ -324,3 +324,4 @@ Change Group 42: Start = 0xec0002, End = 0xec0003
 Original: 5b -> Modified: *
 Original: ff -> Modified: 
 
+Checksum Changes: 155a
