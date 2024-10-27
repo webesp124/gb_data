@@ -1,11 +1,11 @@
 {
-    "fullName": "Pokemon - Flora Sky (Flash1M Repro)",
-    "coverImage": "./additional-covers/flora_sky.webp",
+    "fullName": "Pokemon - Glazed (Flash1M Repro)",
+    "coverImage": "./additional-covers/glazed.jpg",
     "publisher": "None",
-    "releaseDate": "2010",
+    "releaseDate": "2012",
     "crc": "Unknown",
     "cartSize": 33554432,
     "saveType": "REPRO_FLASH1M",
-    "checksum1000": "BAEF8F9",
+    "checksum1000": "C53294C",
     "patchFile": "https://raw.githubusercontent.com/webesp124/gb_data/refs/heads/main/patches/patch_emerald_generic.txt"
 }

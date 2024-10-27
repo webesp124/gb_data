@@ -1,0 +1,11 @@
+{
+    "fullName": "Pokemon - Victory Fire (Flash1M Repro)",
+    "coverImage": "./additional-covers/Pokemon_Victory_Fire.webp",
+    "publisher": "None",
+    "releaseDate": "2012",
+    "crc": "Unknown",
+    "cartSize": 19595248,
+    "saveType": "REPRO_FLASH1M",
+    "checksum1000": "D6D9AC6",
+    "patchFile": "https://raw.githubusercontent.com/webesp124/gb_data/refs/heads/main/patches/patch_emerald_generic.txt"
+}
