@@ -1,0 +1,11 @@
+{
+    "fullName": "Pokemon - Ash Gray 4.5.3 (Flash1M Repro)",
+    "coverImage": "./additional-covers/1589296314-f2ee1733-d32e-44f9-9cd3-0a713224b602.webp",
+    "publisher": "None",
+    "releaseDate": "2012",
+    "crc": "Unknown",
+    "cartSize": 16777216,
+    "saveType": "REPRO_FLASH1M",
+    "checksum1000": "12CB1230",
+    "patchFile": "https://raw.githubusercontent.com/webesp124/gb_data/refs/heads/main/patches/patch_firered_generic.txt"
+}

@@ -1,0 +1,11 @@
+{
+    "fullName": "Pokemon - Radical Red 4.1 (Flash1M Repro)",
+    "coverImage": "./additional-covers/radical_red.webp",
+    "publisher": "None",
+    "releaseDate": "2020",
+    "crc": "Unknown",
+    "cartSize": 33554432,
+    "saveType": "REPRO_FLASH1M",
+    "checksum1000": "121A921C",
+    "patchFile": "https://raw.githubusercontent.com/webesp124/gb_data/refs/heads/main/patches/patch_firered_generic.txt"
+}
