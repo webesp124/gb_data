@@ -1,0 +1,11 @@
+{
+    "fullName": "Pokemon - Ruby Destiny: Rescue Rangers (Flash1M Repro)",
+    "coverImage": "./additional-covers/rescue_rangers.jpg",
+    "publisher": "None",
+    "releaseDate": "2014",
+    "crc": "Unknown",
+    "cartSize": 16777216,
+    "saveType": "REPRO_FLASH1M",
+    "checksum1000": "153EA829",
+    "patchFile": "https://raw.githubusercontent.com/webesp124/gb_data/refs/heads/main/patches/patch_ruby_generic.txt"
+}

@@ -1,0 +1,181 @@
+Change Group 1: Start = 0x1251ac, End = 0x1251b3
+Original: d0 -> Modified: 0
+Original: 8c -> Modified: 0
+Original: ff -> Modified: 0
+Original: 8b -> Modified: 0
+Original: 8f -> Modified: *
+Original: 48 -> Modified: *
+Original: 8f -> Modified: *
+Original: 08 -> Modified: 0
+
+
+Change Group 2: Start = 0x1252bc, End = 0x1252c3
+Original: 10 -> Modified: 0
+Original: 8d -> Modified: 0
+Original: 06 -> Modified: 0
+Original: 8b -> Modified: 0
+Original: 27 -> Modified: *
+Original: e8 -> Modified: *
+Original: 2f -> Modified: *
+Original: 08 -> Modified: 0
+
+
+Change Group 3: Start = 0x1df628, End = 0x1df628
+Original: ff -> Modified: 0
+
+
+Change Group 4: Start = 0x1df62e, End = 0x1df62e
+Original: ff -> Modified: 0
+
+
+Change Group 5: Start = 0x1df638, End = 0x1df641
+Original: 22 -> Modified: 0
+Original: 28 -> Modified: 0
+Original: ff -> Modified: 0
+Original: 42 -> Modified: 0
+Original: 4d -> Modified: 0
+Original: e5 -> Modified: 0
+Original: 90 -> Modified: 0
+Original: c7 -> Modified: 0
+Original: 55 -> Modified: 0
+Original: d5 -> Modified: 0
+
+
+Change Group 6: Start = 0x1df644, End = 0x1df647
+Original: bb -> Modified: *
+Original: 3b -> Modified: *
+Original: 65 -> Modified: *
+Original: fa -> Modified: 0
+
+
+Change Group 7: Start = 0x1df654, End = 0x1df655
+Original: 6c -> Modified: 0
+Original: e7 -> Modified: 0
+
+
+Change Group 8: Start = 0x1df67e, End = 0x1df67f
+Original: 3f -> Modified: 0
+Original: e6 -> Modified: 0
+
+
+Change Group 9: Start = 0x1df68a, End = 0x1df68d
+Original: bf -> Modified: 0
+Original: 56 -> Modified: 0
+Original: 3a -> Modified: 0
+Original: 28 -> Modified: 0
+
+
+Change Group 10: Start = 0x1df696, End = 0x1df699
+Original: 8c -> Modified: *
+Original: 9d -> Modified: *
+Original: ba -> Modified: *
+Original: 95 -> Modified: *
+
+
+Change Group 11: Start = 0x1df6ce, End = 0x1df6cf
+Original: 3f -> Modified: 0
+Original: e6 -> Modified: 0
+
+
+Change Group 12: Start = 0x1df6f0, End = 0x1df6f1
+Original: 3f -> Modified: 0
+Original: e6 -> Modified: 0
+
+
+Change Group 13: Start = 0x1df79a, End = 0x1df79b
+Original: 90 -> Modified: 0
+Original: ea -> Modified: 0
+
+
+Change Group 14: Start = 0x1df7fc, End = 0x1df7fd
+Original: 7e -> Modified: 0
+Original: ec -> Modified: 0
+
+
+Change Group 15: Start = 0x1df802, End = 0x1df803
+Original: 7e -> Modified: 0
+Original: e6 -> Modified: 0
+
+
+Change Group 16: Start = 0x1df864, End = 0x1df867
+Original: 99 -> Modified: 0
+Original: e9 -> Modified: 0
+Original: 90 -> Modified: 0
+Original: ea -> Modified: 0
+
+
+Change Group 17: Start = 0x1df88a, End = 0x1df88f
+Original: 63 -> Modified: 0
+Original: e8 -> Modified: 0
+Original: 48 -> Modified: 0
+Original: eb -> Modified: 0
+Original: 5a -> Modified: 0
+Original: e3 -> Modified: 0
+
+
+Change Group 18: Start = 0x1df900, End = 0x1df903
+Original: 99 -> Modified: 0
+Original: e9 -> Modified: 0
+Original: 90 -> Modified: 0
+Original: ea -> Modified: 0
+
+
+Change Group 19: Start = 0x1df910, End = 0x1df911
+Original: 5a -> Modified: 0
+Original: e9 -> Modified: 0
+
+
+Change Group 20: Start = 0x1df94c, End = 0x1df94f
+Original: 6c -> Modified: 0
+Original: e7 -> Modified: 0
+Original: 5a -> Modified: 0
+Original: e9 -> Modified: 0
+
+
+Change Group 21: Start = 0x1df958, End = 0x1df959
+Original: 63 -> Modified: 0
+Original: e2 -> Modified: 0
+
+
+Change Group 22: Start = 0x1df9c8, End = 0x1df9cb
+Original: 99 -> Modified: 0
+Original: e9 -> Modified: 0
+Original: 90 -> Modified: 0
+Original: ea -> Modified: 0
+
+
+Change Group 23: Start = 0x1df9d8, End = 0x1df9d9
+Original: 5a -> Modified: 0
+Original: e9 -> Modified: 0
+
+
+Change Group 24: Start = 0x1dfa60, End = 0x1dfa63
+Original: 99 -> Modified: 0
+Original: e9 -> Modified: 0
+Original: 90 -> Modified: 0
+Original: ea -> Modified: 0
+
+
+Change Group 25: Start = 0x1dfa70, End = 0x1dfa71
+Original: 5a -> Modified: 0
+Original: e9 -> Modified: 0
+
+
+Change Group 26: Start = 0x1dfb50, End = 0x1dfb51
+Original: 0e -> Modified: 0
+Original: eb -> Modified: 0
+
+
+Change Group 27: Start = 0x1dfd29, End = 0x1dfd2b
+Original: ff -> Modified: 0
+Original: 56 -> Modified: 0
+Original: 22 -> Modified: 0
+
+
+Change Group 28: Start = 0x1dfd7c, End = 0x1dfd7f
+Original: cc -> Modified: 0
+Original: af -> Modified: 0
+Original: 6e -> Modified: 0
+Original: fa -> Modified: 0
+
+Checksum Changes: 1363
