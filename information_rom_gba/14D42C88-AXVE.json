@@ -1,0 +1,11 @@
+{
+    "fullName": "Pokemon - Snakewood (Flash1M Repro)",
+    "coverImage": "./additional-covers/snakewood.jpg",
+    "publisher": "None",
+    "releaseDate": "2013",
+    "crc": "Unknown",
+    "cartSize": 16777216,
+    "saveType": "REPRO_FLASH1M",
+    "checksum1000": "14D42C88",
+    "patchFile": "https://raw.githubusercontent.com/webesp124/gb_data/refs/heads/main/patches/patch_ruby_generic.txt"
+}
