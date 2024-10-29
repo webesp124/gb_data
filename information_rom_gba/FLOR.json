@@ -6,5 +6,6 @@
     "crc": "Unknown",
     "cartSize": 33554432,
     "saveType": "REPRO_FLASH1M",
-    "checksum1000": "BAEF8F9"
+    "checksum1000": "BAEF8F9",
+    "patchFile": "https://raw.githubusercontent.com/webesp124/gb_data/refs/heads/main/patches/patch_emerald_generic.txt"
 }
