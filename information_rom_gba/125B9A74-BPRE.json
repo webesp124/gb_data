@@ -1,0 +1,11 @@
+{
+    "fullName": "Pokemon - Dark Violet (Flash1M Repro)",
+    "coverImage": "./additional-covers/dark_violet.webp",
+    "publisher": "None",
+    "releaseDate": "2012",
+    "crc": "Unknown",
+    "cartSize": 16777216,
+    "saveType": "REPRO_FLASH1M",
+    "checksum1000": "125B9A74",
+    "patchFile": "https://raw.githubusercontent.com/webesp124/gb_data/refs/heads/main/patches/patch_firered_generic.txt"
+}
