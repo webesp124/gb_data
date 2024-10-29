@@ -1,0 +1,11 @@
+{
+    "fullName": "Pokemon - Unbound 2.1.1.1 (Flash1M Repro)",
+    "coverImage": "./additional-covers/unbound.webp",
+    "publisher": "None",
+    "releaseDate": "2016",
+    "crc": "Unknown",
+    "cartSize": 33554432,
+    "saveType": "REPRO_FLASH1M",
+    "checksum1000": "C29BE27",
+    "patchFile": "https://raw.githubusercontent.com/webesp124/gb_data/refs/heads/main/patches/patch_firered2_generic.txt"
+}
