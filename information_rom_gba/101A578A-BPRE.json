@@ -1,0 +1,11 @@
+{
+    "fullName": "Pokemon - Liquid Crystal Beta 3.3.00512 (Flash1M Repro)",
+    "coverImage": "./additional-covers/Pokemon-Liquid-Crystal.webp",
+    "publisher": "None",
+    "releaseDate": "2016",
+    "crc": "Unknown",
+    "cartSize": 16777216,
+    "saveType": "REPRO_FLASH1M",
+    "checksum1000": "101A578A",
+    "patchFile": "https://raw.githubusercontent.com/webesp124/gb_data/refs/heads/main/patches/patch_firered_generic.txt"
+}
