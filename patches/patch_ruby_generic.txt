@@ -173,9 +173,9 @@ Original: 22 -> Modified: 0
 
 
 Change Group 28: Start = 0x1dfd7c, End = 0x1dfd7f
-Original: cc -> Modified: 0
-Original: af -> Modified: 0
-Original: 6e -> Modified: 0
+Original: 73 -> Modified: *
+Original: 73 -> Modified: *
+Original: c8 -> Modified: *
 Original: fa -> Modified: 0
 
-Checksum Changes: 1363
+Checksum Changes: 12d0
