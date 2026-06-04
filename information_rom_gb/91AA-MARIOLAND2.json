@@ -23,5 +23,14 @@
     "crc": "A715DAF5",
     "cartSize": 524288,
     "checksum1000": "DF52",
-    "checksumFull": "39992E5"
+    "checksumFull": "39992E5",
+    "compatibleImprovementPatchFiles": [
+        "./improvement_patches/SML2DXv181_jap.ips"
+    ],
+    "compatibleImprovementPatchDescriptions": {
+        "./improvement_patches/SML2DXv181_jap.ips": "Super Mario Land 2 DX v1.8.1. Adds Game Boy Color support, colorized graphics, playable Luigi with different physics, lag reduction, and bug fixes. This is the Japanese-ROM patch included by the author."
+    },
+    "compatibleImprovementPatchSourceUrls": {
+        "./improvement_patches/SML2DXv181_jap.ips": "https://vimm.net/romhacking/hacks/3784"
+    }
 }

@@ -6,5 +6,8 @@
     "crc": "CEE9471A",
     "cartSize": 8388608,
     "saveType": "FLASH1M_V103",
-    "checksum1000": "5D16719"
+    "checksum1000": "5D16719",
+    "compatibleImprovementPatchFiles": ["./improvement_patches/Pokemon - Ruby (J) (V1.0) [T+Eng0.15.0_pokemonrubytranslation.tk].bps"],
+    "compatibleImprovementPatchDescriptions": {"./improvement_patches/Pokemon - Ruby (J) (V1.0) [T+Eng0.15.0_pokemonrubytranslation.tk].bps": "English translation"},
+    "compatibleImprovementPatchSourceUrls": {"./improvement_patches/Pokemon - Ruby (J) (V1.0) [T+Eng0.15.0_pokemonrubytranslation.tk].bps": "-"}
 }
